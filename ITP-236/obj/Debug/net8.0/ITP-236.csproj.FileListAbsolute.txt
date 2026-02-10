@@ -1,0 +1,15 @@
+C:\Users\David\source\repos\ITP-236\ITP-236\bin\Debug\net8.0\ITP-236.exe
+C:\Users\David\source\repos\ITP-236\ITP-236\bin\Debug\net8.0\ITP-236.deps.json
+C:\Users\David\source\repos\ITP-236\ITP-236\bin\Debug\net8.0\ITP-236.runtimeconfig.json
+C:\Users\David\source\repos\ITP-236\ITP-236\bin\Debug\net8.0\ITP-236.dll
+C:\Users\David\source\repos\ITP-236\ITP-236\bin\Debug\net8.0\ITP-236.pdb
+C:\Users\David\source\repos\ITP-236\ITP-236\obj\Debug\net8.0\ITP-236.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\source\repos\ITP-236\ITP-236\obj\Debug\net8.0\ITP-236.AssemblyInfoInputs.cache
+C:\Users\David\source\repos\ITP-236\ITP-236\obj\Debug\net8.0\ITP-236.AssemblyInfo.cs
+C:\Users\David\source\repos\ITP-236\ITP-236\obj\Debug\net8.0\ITP-236.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\ITP-236\ITP-236\obj\Debug\net8.0\ITP-236.sourcelink.json
+C:\Users\David\source\repos\ITP-236\ITP-236\obj\Debug\net8.0\ITP-236.dll
+C:\Users\David\source\repos\ITP-236\ITP-236\obj\Debug\net8.0\refint\ITP-236.dll
+C:\Users\David\source\repos\ITP-236\ITP-236\obj\Debug\net8.0\ITP-236.pdb
+C:\Users\David\source\repos\ITP-236\ITP-236\obj\Debug\net8.0\ITP-236.genruntimeconfig.cache
+C:\Users\David\source\repos\ITP-236\ITP-236\obj\Debug\net8.0\ref\ITP-236.dll
