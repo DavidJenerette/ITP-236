@@ -1,0 +1,15 @@
+C:\Users\David\source\repos\ITP-236\OOP Assignment\bin\Debug\net8.0\OOP Assignment.exe
+C:\Users\David\source\repos\ITP-236\OOP Assignment\bin\Debug\net8.0\OOP Assignment.deps.json
+C:\Users\David\source\repos\ITP-236\OOP Assignment\bin\Debug\net8.0\OOP Assignment.runtimeconfig.json
+C:\Users\David\source\repos\ITP-236\OOP Assignment\bin\Debug\net8.0\OOP Assignment.dll
+C:\Users\David\source\repos\ITP-236\OOP Assignment\bin\Debug\net8.0\OOP Assignment.pdb
+C:\Users\David\source\repos\ITP-236\OOP Assignment\obj\Debug\net8.0\OOP Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\source\repos\ITP-236\OOP Assignment\obj\Debug\net8.0\OOP Assignment.AssemblyInfoInputs.cache
+C:\Users\David\source\repos\ITP-236\OOP Assignment\obj\Debug\net8.0\OOP Assignment.AssemblyInfo.cs
+C:\Users\David\source\repos\ITP-236\OOP Assignment\obj\Debug\net8.0\OOP Assignment.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\ITP-236\OOP Assignment\obj\Debug\net8.0\OOP Assignment.sourcelink.json
+C:\Users\David\source\repos\ITP-236\OOP Assignment\obj\Debug\net8.0\OOP Assignment.dll
+C:\Users\David\source\repos\ITP-236\OOP Assignment\obj\Debug\net8.0\refint\OOP Assignment.dll
+C:\Users\David\source\repos\ITP-236\OOP Assignment\obj\Debug\net8.0\OOP Assignment.pdb
+C:\Users\David\source\repos\ITP-236\OOP Assignment\obj\Debug\net8.0\OOP Assignment.genruntimeconfig.cache
+C:\Users\David\source\repos\ITP-236\OOP Assignment\obj\Debug\net8.0\ref\OOP Assignment.dll

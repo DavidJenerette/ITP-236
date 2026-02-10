@@ -1,0 +1,15 @@
+C:\Users\David\source\repos\ITP-236\Collections Assignment\bin\Debug\net8.0\Collections Assignment.exe
+C:\Users\David\source\repos\ITP-236\Collections Assignment\bin\Debug\net8.0\Collections Assignment.deps.json
+C:\Users\David\source\repos\ITP-236\Collections Assignment\bin\Debug\net8.0\Collections Assignment.runtimeconfig.json
+C:\Users\David\source\repos\ITP-236\Collections Assignment\bin\Debug\net8.0\Collections Assignment.dll
+C:\Users\David\source\repos\ITP-236\Collections Assignment\bin\Debug\net8.0\Collections Assignment.pdb
+C:\Users\David\source\repos\ITP-236\Collections Assignment\obj\Debug\net8.0\Collections Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\source\repos\ITP-236\Collections Assignment\obj\Debug\net8.0\Collections Assignment.AssemblyInfoInputs.cache
+C:\Users\David\source\repos\ITP-236\Collections Assignment\obj\Debug\net8.0\Collections Assignment.AssemblyInfo.cs
+C:\Users\David\source\repos\ITP-236\Collections Assignment\obj\Debug\net8.0\Collections Assignment.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\ITP-236\Collections Assignment\obj\Debug\net8.0\Collections Assignment.sourcelink.json
+C:\Users\David\source\repos\ITP-236\Collections Assignment\obj\Debug\net8.0\Collections Assignment.dll
+C:\Users\David\source\repos\ITP-236\Collections Assignment\obj\Debug\net8.0\refint\Collections Assignment.dll
+C:\Users\David\source\repos\ITP-236\Collections Assignment\obj\Debug\net8.0\Collections Assignment.pdb
+C:\Users\David\source\repos\ITP-236\Collections Assignment\obj\Debug\net8.0\Collections Assignment.genruntimeconfig.cache
+C:\Users\David\source\repos\ITP-236\Collections Assignment\obj\Debug\net8.0\ref\Collections Assignment.dll
