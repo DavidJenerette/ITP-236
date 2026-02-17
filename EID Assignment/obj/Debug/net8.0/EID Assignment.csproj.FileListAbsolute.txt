@@ -1,0 +1,15 @@
+C:\Users\David\source\repos\ITP-236\EID Assignment\obj\Debug\net8.0\EID Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\source\repos\ITP-236\EID Assignment\obj\Debug\net8.0\EID Assignment.AssemblyInfoInputs.cache
+C:\Users\David\source\repos\ITP-236\EID Assignment\obj\Debug\net8.0\EID Assignment.AssemblyInfo.cs
+C:\Users\David\source\repos\ITP-236\EID Assignment\obj\Debug\net8.0\EID Assignment.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\ITP-236\EID Assignment\obj\Debug\net8.0\EID Assignment.sourcelink.json
+C:\Users\David\source\repos\ITP-236\EID Assignment\bin\Debug\net8.0\EID Assignment.exe
+C:\Users\David\source\repos\ITP-236\EID Assignment\bin\Debug\net8.0\EID Assignment.deps.json
+C:\Users\David\source\repos\ITP-236\EID Assignment\bin\Debug\net8.0\EID Assignment.runtimeconfig.json
+C:\Users\David\source\repos\ITP-236\EID Assignment\bin\Debug\net8.0\EID Assignment.dll
+C:\Users\David\source\repos\ITP-236\EID Assignment\bin\Debug\net8.0\EID Assignment.pdb
+C:\Users\David\source\repos\ITP-236\EID Assignment\obj\Debug\net8.0\EID Assignment.dll
+C:\Users\David\source\repos\ITP-236\EID Assignment\obj\Debug\net8.0\refint\EID Assignment.dll
+C:\Users\David\source\repos\ITP-236\EID Assignment\obj\Debug\net8.0\EID Assignment.pdb
+C:\Users\David\source\repos\ITP-236\EID Assignment\obj\Debug\net8.0\EID Assignment.genruntimeconfig.cache
+C:\Users\David\source\repos\ITP-236\EID Assignment\obj\Debug\net8.0\ref\EID Assignment.dll

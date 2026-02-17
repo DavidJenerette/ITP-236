@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP Assignment", "OOP Assig
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Collections Assignment", "Collections Assignment\Collections Assignment.csproj", "{F74082D0-C412-474F-BFF3-A3AA378CAD1E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EID CW", "EID\EID CW.csproj", "{33E5A595-0B31-413C-990E-7791096494D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EID Assignment", "EID Assignment\EID Assignment.csproj", "{8215621B-ED5A-4875-AA02-01D604507DFC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{F74082D0-C412-474F-BFF3-A3AA378CAD1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F74082D0-C412-474F-BFF3-A3AA378CAD1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F74082D0-C412-474F-BFF3-A3AA378CAD1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33E5A595-0B31-413C-990E-7791096494D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33E5A595-0B31-413C-990E-7791096494D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33E5A595-0B31-413C-990E-7791096494D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33E5A595-0B31-413C-990E-7791096494D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8215621B-ED5A-4875-AA02-01D604507DFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8215621B-ED5A-4875-AA02-01D604507DFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8215621B-ED5A-4875-AA02-01D604507DFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8215621B-ED5A-4875-AA02-01D604507DFC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -3,12 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\David\\source\\repos\\ITP-236\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F74082D0-C412-474F-BFF3-A3AA378CAD1E}|Collections Assignment\\Collections Assignment.csproj|c:\\users\\david\\source\\repos\\itp-236\\collections assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F74082D0-C412-474F-BFF3-A3AA378CAD1E}|Collections Assignment\\Collections Assignment.csproj|solutionrelative:collections assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8215621B-ED5A-4875-AA02-01D604507DFC}|EID Assignment\\EID Assignment.csproj|c:\\users\\david\\source\\repos\\itp-236\\eid assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8215621B-ED5A-4875-AA02-01D604507DFC}|EID Assignment\\EID Assignment.csproj|solutionrelative:eid assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F74082D0-C412-474F-BFF3-A3AA378CAD1E}|Collections Assignment\\Collections Assignment.csproj|c:\\users\\david\\source\\repos\\itp-236\\collections assignment\\states.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F74082D0-C412-474F-BFF3-A3AA378CAD1E}|Collections Assignment\\Collections Assignment.csproj|solutionrelative:collections assignment\\states.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8215621B-ED5A-4875-AA02-01D604507DFC}|EID Assignment\\EID Assignment.csproj|c:\\users\\david\\source\\repos\\itp-236\\eid assignment\\vendorcontactinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8215621B-ED5A-4875-AA02-01D604507DFC}|EID Assignment\\EID Assignment.csproj|solutionrelative:eid assignment\\vendorcontactinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8215621B-ED5A-4875-AA02-01D604507DFC}|EID Assignment\\EID Assignment.csproj|c:\\users\\david\\source\\repos\\itp-236\\eid assignment\\interface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8215621B-ED5A-4875-AA02-01D604507DFC}|EID Assignment\\EID Assignment.csproj|solutionrelative:eid assignment\\interface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8215621B-ED5A-4875-AA02-01D604507DFC}|EID Assignment\\EID Assignment.csproj|c:\\users\\david\\source\\repos\\itp-236\\eid assignment\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8215621B-ED5A-4875-AA02-01D604507DFC}|EID Assignment\\EID Assignment.csproj|solutionrelative:eid assignment\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8215621B-ED5A-4875-AA02-01D604507DFC}|EID Assignment\\EID Assignment.csproj|c:\\users\\david\\source\\repos\\itp-236\\eid assignment\\customerinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8215621B-ED5A-4875-AA02-01D604507DFC}|EID Assignment\\EID Assignment.csproj|solutionrelative:eid assignment\\customerinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8215621B-ED5A-4875-AA02-01D604507DFC}|EID Assignment\\EID Assignment.csproj|c:\\users\\david\\source\\repos\\itp-236\\eid assignment\\employeeinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8215621B-ED5A-4875-AA02-01D604507DFC}|EID Assignment\\EID Assignment.csproj|solutionrelative:eid assignment\\employeeinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,8 +34,47 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 7,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustomerInfo.cs",
+              "DocumentMoniker": "C:\\Users\\David\\source\\repos\\ITP-236\\EID Assignment\\CustomerInfo.cs",
+              "RelativeDocumentMoniker": "EID Assignment\\CustomerInfo.cs",
+              "ToolTip": "C:\\Users\\David\\source\\repos\\ITP-236\\EID Assignment\\CustomerInfo.cs",
+              "RelativeToolTip": "EID Assignment\\CustomerInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAACKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T01:18:18.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeeInfo.cs",
+              "DocumentMoniker": "C:\\Users\\David\\source\\repos\\ITP-236\\EID Assignment\\EmployeeInfo.cs",
+              "RelativeDocumentMoniker": "EID Assignment\\EmployeeInfo.cs",
+              "ToolTip": "C:\\Users\\David\\source\\repos\\ITP-236\\EID Assignment\\EmployeeInfo.cs",
+              "RelativeToolTip": "EID Assignment\\EmployeeInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAACKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T01:18:04.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VendorContactInfo.cs",
+              "DocumentMoniker": "C:\\Users\\David\\source\\repos\\ITP-236\\EID Assignment\\VendorContactInfo.cs",
+              "RelativeDocumentMoniker": "EID Assignment\\VendorContactInfo.cs",
+              "ToolTip": "C:\\Users\\David\\source\\repos\\ITP-236\\EID Assignment\\VendorContactInfo.cs",
+              "RelativeToolTip": "EID Assignment\\VendorContactInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAACPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T01:16:50.581Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -30,28 +85,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "States.cs",
-              "DocumentMoniker": "C:\\Users\\David\\source\\repos\\ITP-236\\Collections Assignment\\States.cs",
-              "RelativeDocumentMoniker": "Collections Assignment\\States.cs",
-              "ToolTip": "C:\\Users\\David\\source\\repos\\ITP-236\\Collections Assignment\\States.cs*",
-              "RelativeToolTip": "Collections Assignment\\States.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGsAAAA0AAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Interface.cs",
+              "DocumentMoniker": "C:\\Users\\David\\source\\repos\\ITP-236\\EID Assignment\\Interface.cs",
+              "RelativeDocumentMoniker": "EID Assignment\\Interface.cs",
+              "ToolTip": "C:\\Users\\David\\source\\repos\\ITP-236\\EID Assignment\\Interface.cs",
+              "RelativeToolTip": "EID Assignment\\Interface.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-10T03:37:48.156Z",
+              "WhenOpened": "2026-02-17T01:13:44.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Extensions.cs",
+              "DocumentMoniker": "C:\\Users\\David\\source\\repos\\ITP-236\\EID Assignment\\Extensions.cs",
+              "RelativeDocumentMoniker": "EID Assignment\\Extensions.cs",
+              "ToolTip": "C:\\Users\\David\\source\\repos\\ITP-236\\EID Assignment\\Extensions.cs",
+              "RelativeToolTip": "EID Assignment\\Extensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T00:15:25.826Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\David\\source\\repos\\ITP-236\\Collections Assignment\\Program.cs",
-              "RelativeDocumentMoniker": "Collections Assignment\\Program.cs",
-              "ToolTip": "C:\\Users\\David\\source\\repos\\ITP-236\\Collections Assignment\\Program.cs*",
-              "RelativeToolTip": "Collections Assignment\\Program.cs*",
-              "ViewState": "AgIAABkAAAAAAAAAAAAQwDsAAAAFAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\David\\source\\repos\\ITP-236\\EID Assignment\\Program.cs",
+              "RelativeDocumentMoniker": "EID Assignment\\Program.cs",
+              "ToolTip": "C:\\Users\\David\\source\\repos\\ITP-236\\EID Assignment\\Program.cs",
+              "RelativeToolTip": "EID Assignment\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-10T03:36:18.173Z",
+              "WhenOpened": "2026-02-17T00:15:07.12Z",
               "EditorCaption": ""
             }
           ]
