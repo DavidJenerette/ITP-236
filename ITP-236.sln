@@ -15,6 +15,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EID CW", "EID\EID CW.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EID Assignment", "EID Assignment\EID Assignment.csproj", "{8215621B-ED5A-4875-AA02-01D604507DFC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQ CW 1", "LINQ CW 1\LINQ CW 1.csproj", "{325110D9-AA75-4427-B0B4-4EF69F923A50}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQ 1 Assignment", "LINQ 1 Assignment\LINQ 1 Assignment.csproj", "{EB6011C5-9A53-4250-91D9-C3BED3494886}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +49,14 @@ Global
 		{8215621B-ED5A-4875-AA02-01D604507DFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8215621B-ED5A-4875-AA02-01D604507DFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8215621B-ED5A-4875-AA02-01D604507DFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{325110D9-AA75-4427-B0B4-4EF69F923A50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{325110D9-AA75-4427-B0B4-4EF69F923A50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{325110D9-AA75-4427-B0B4-4EF69F923A50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{325110D9-AA75-4427-B0B4-4EF69F923A50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB6011C5-9A53-4250-91D9-C3BED3494886}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB6011C5-9A53-4250-91D9-C3BED3494886}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB6011C5-9A53-4250-91D9-C3BED3494886}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB6011C5-9A53-4250-91D9-C3BED3494886}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
