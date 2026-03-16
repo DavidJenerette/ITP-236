@@ -1,0 +1,15 @@
+C:\Users\David\source\repos\ITP-236\ThinqLinqProject\bin\Debug\net8.0\ThinqLinqProject.exe
+C:\Users\David\source\repos\ITP-236\ThinqLinqProject\bin\Debug\net8.0\ThinqLinqProject.deps.json
+C:\Users\David\source\repos\ITP-236\ThinqLinqProject\bin\Debug\net8.0\ThinqLinqProject.runtimeconfig.json
+C:\Users\David\source\repos\ITP-236\ThinqLinqProject\bin\Debug\net8.0\ThinqLinqProject.dll
+C:\Users\David\source\repos\ITP-236\ThinqLinqProject\bin\Debug\net8.0\ThinqLinqProject.pdb
+C:\Users\David\source\repos\ITP-236\ThinqLinqProject\obj\Debug\net8.0\ThinqLinqProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\source\repos\ITP-236\ThinqLinqProject\obj\Debug\net8.0\ThinqLinqProject.AssemblyInfoInputs.cache
+C:\Users\David\source\repos\ITP-236\ThinqLinqProject\obj\Debug\net8.0\ThinqLinqProject.AssemblyInfo.cs
+C:\Users\David\source\repos\ITP-236\ThinqLinqProject\obj\Debug\net8.0\ThinqLinqProject.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\ITP-236\ThinqLinqProject\obj\Debug\net8.0\ThinqLinqProject.sourcelink.json
+C:\Users\David\source\repos\ITP-236\ThinqLinqProject\obj\Debug\net8.0\ThinqLinqProject.dll
+C:\Users\David\source\repos\ITP-236\ThinqLinqProject\obj\Debug\net8.0\refint\ThinqLinqProject.dll
+C:\Users\David\source\repos\ITP-236\ThinqLinqProject\obj\Debug\net8.0\ThinqLinqProject.pdb
+C:\Users\David\source\repos\ITP-236\ThinqLinqProject\obj\Debug\net8.0\ThinqLinqProject.genruntimeconfig.cache
+C:\Users\David\source\repos\ITP-236\ThinqLinqProject\obj\Debug\net8.0\ref\ThinqLinqProject.dll
