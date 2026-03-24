@@ -3,19 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\David\\source\\repos\\ITP-236\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{111D066A-BB05-4A79-A31E-8223B0054DE1}|ThinqLinqProject\\ThinqLinqProject.csproj|c:\\users\\david\\source\\repos\\itp-236\\thinqlinqproject\\linqprojectcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{111D066A-BB05-4A79-A31E-8223B0054DE1}|ThinqLinqProject\\ThinqLinqProject.csproj|solutionrelative:thinqlinqproject\\linqprojectcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CD76DE16-CF7D-4CEE-A41D-756F8C901BEA}|Sports Model Assignment\\Sports Model Assignment.csproj|c:\\users\\david\\source\\repos\\itp-236\\sports model assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD76DE16-CF7D-4CEE-A41D-756F8C901BEA}|Sports Model Assignment\\Sports Model Assignment.csproj|solutionrelative:sports model assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\David\\Downloads\\ITP-236-ITP-236\\ITP-236-ITP-236\\LinqProject\\LinqProjectCode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB6011C5-9A53-4250-91D9-C3BED3494886}|LINQ 1 Assignment\\LINQ 1 Assignment.csproj|c:\\users\\david\\source\\repos\\itp-236\\linq 1 assignment\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB6011C5-9A53-4250-91D9-C3BED3494886}|LINQ 1 Assignment\\LINQ 1 Assignment.csproj|solutionrelative:linq 1 assignment\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB6011C5-9A53-4250-91D9-C3BED3494886}|LINQ 1 Assignment\\LINQ 1 Assignment.csproj|c:\\users\\david\\source\\repos\\itp-236\\linq 1 assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB6011C5-9A53-4250-91D9-C3BED3494886}|LINQ 1 Assignment\\LINQ 1 Assignment.csproj|solutionrelative:linq 1 assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CD76DE16-CF7D-4CEE-A41D-756F8C901BEA}|Sports Model Assignment\\Sports Model Assignment.csproj|c:\\users\\david\\source\\repos\\itp-236\\sports model assignment\\sportsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD76DE16-CF7D-4CEE-A41D-756F8C901BEA}|Sports Model Assignment\\Sports Model Assignment.csproj|solutionrelative:sports model assignment\\sportsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -25,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -37,53 +30,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "LinqProjectCode.cs",
-              "DocumentMoniker": "C:\\Users\\David\\Downloads\\ITP-236-ITP-236\\ITP-236-ITP-236\\LinqProject\\LinqProjectCode.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\ITP-236-ITP-236\\ITP-236-ITP-236\\LinqProject\\LinqProjectCode.cs",
-              "ToolTip": "C:\\Users\\David\\Downloads\\ITP-236-ITP-236\\ITP-236-ITP-236\\LinqProject\\LinqProjectCode.cs",
-              "RelativeToolTip": "..\\..\\..\\Downloads\\ITP-236-ITP-236\\ITP-236-ITP-236\\LinqProject\\LinqProjectCode.cs",
-              "ViewState": "AgIAAEoAAAAAAAAAAAAAAHUAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-16T18:56:54.528Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "LinqProjectCode.cs",
-              "DocumentMoniker": "C:\\Users\\David\\source\\repos\\ITP-236\\ThinqLinqProject\\LinqProjectCode.cs",
-              "RelativeDocumentMoniker": "ThinqLinqProject\\LinqProjectCode.cs",
-              "ToolTip": "C:\\Users\\David\\source\\repos\\ITP-236\\ThinqLinqProject\\LinqProjectCode.cs*",
-              "RelativeToolTip": "ThinqLinqProject\\LinqProjectCode.cs*",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAAmAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\David\\source\\repos\\ITP-236\\Sports Model Assignment\\Program.cs",
+              "RelativeDocumentMoniker": "Sports Model Assignment\\Program.cs",
+              "ToolTip": "C:\\Users\\David\\source\\repos\\ITP-236\\Sports Model Assignment\\Program.cs",
+              "RelativeToolTip": "Sports Model Assignment\\Program.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAQwA8AAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-16T18:01:02.613Z",
+              "WhenOpened": "2026-03-24T21:23:54.957Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Customer.cs",
-              "DocumentMoniker": "C:\\Users\\David\\source\\repos\\ITP-236\\LINQ 1 Assignment\\Customer.cs",
-              "RelativeDocumentMoniker": "LINQ 1 Assignment\\Customer.cs",
-              "ToolTip": "C:\\Users\\David\\source\\repos\\ITP-236\\LINQ 1 Assignment\\Customer.cs",
-              "RelativeToolTip": "LINQ 1 Assignment\\Customer.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA4AAAAZAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "SportsModel.cs",
+              "DocumentMoniker": "C:\\Users\\David\\source\\repos\\ITP-236\\Sports Model Assignment\\SportsModel.cs",
+              "RelativeDocumentMoniker": "Sports Model Assignment\\SportsModel.cs",
+              "ToolTip": "C:\\Users\\David\\source\\repos\\ITP-236\\Sports Model Assignment\\SportsModel.cs",
+              "RelativeToolTip": "Sports Model Assignment\\SportsModel.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-02T21:27:01.189Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\David\\source\\repos\\ITP-236\\LINQ 1 Assignment\\Program.cs",
-              "RelativeDocumentMoniker": "LINQ 1 Assignment\\Program.cs",
-              "ToolTip": "C:\\Users\\David\\source\\repos\\ITP-236\\LINQ 1 Assignment\\Program.cs",
-              "RelativeToolTip": "LINQ 1 Assignment\\Program.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAQwB8AAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-02T21:26:23.638Z"
+              "WhenOpened": "2026-03-24T20:38:52.95Z",
+              "EditorCaption": ""
             }
           ]
         }

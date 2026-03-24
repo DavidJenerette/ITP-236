@@ -1,0 +1,15 @@
+C:\Users\David\source\repos\ITP-236\Sports Model Assignment\obj\Debug\net8.0\Sports Model Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\source\repos\ITP-236\Sports Model Assignment\obj\Debug\net8.0\Sports Model Assignment.AssemblyInfoInputs.cache
+C:\Users\David\source\repos\ITP-236\Sports Model Assignment\obj\Debug\net8.0\Sports Model Assignment.AssemblyInfo.cs
+C:\Users\David\source\repos\ITP-236\Sports Model Assignment\obj\Debug\net8.0\Sports Model Assignment.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\ITP-236\Sports Model Assignment\obj\Debug\net8.0\Sports Model Assignment.sourcelink.json
+C:\Users\David\source\repos\ITP-236\Sports Model Assignment\bin\Debug\net8.0\Sports Model Assignment.exe
+C:\Users\David\source\repos\ITP-236\Sports Model Assignment\bin\Debug\net8.0\Sports Model Assignment.deps.json
+C:\Users\David\source\repos\ITP-236\Sports Model Assignment\bin\Debug\net8.0\Sports Model Assignment.runtimeconfig.json
+C:\Users\David\source\repos\ITP-236\Sports Model Assignment\bin\Debug\net8.0\Sports Model Assignment.dll
+C:\Users\David\source\repos\ITP-236\Sports Model Assignment\bin\Debug\net8.0\Sports Model Assignment.pdb
+C:\Users\David\source\repos\ITP-236\Sports Model Assignment\obj\Debug\net8.0\Sports Model Assignment.dll
+C:\Users\David\source\repos\ITP-236\Sports Model Assignment\obj\Debug\net8.0\refint\Sports Model Assignment.dll
+C:\Users\David\source\repos\ITP-236\Sports Model Assignment\obj\Debug\net8.0\Sports Model Assignment.pdb
+C:\Users\David\source\repos\ITP-236\Sports Model Assignment\obj\Debug\net8.0\Sports Model Assignment.genruntimeconfig.cache
+C:\Users\David\source\repos\ITP-236\Sports Model Assignment\obj\Debug\net8.0\ref\Sports Model Assignment.dll

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EID Assignment")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cce23afa814176623e744486d108c97a865a8e13")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e2f006c809a66a03c403467d10d508869ec3a4af")]
 [assembly: System.Reflection.AssemblyProductAttribute("EID Assignment")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EID Assignment")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
