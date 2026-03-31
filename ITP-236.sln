@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThinqLinqProject", "ThinqLi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sports Model Assignment", "Sports Model Assignment\Sports Model Assignment.csproj", "{CD76DE16-CF7D-4CEE-A41D-756F8C901BEA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EF Core 1", "EF Core 1\EF Core 1.csproj", "{1DC0421E-345B-4A07-9AE3-D863A4256D9F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{CD76DE16-CF7D-4CEE-A41D-756F8C901BEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CD76DE16-CF7D-4CEE-A41D-756F8C901BEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CD76DE16-CF7D-4CEE-A41D-756F8C901BEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DC0421E-345B-4A07-9AE3-D863A4256D9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DC0421E-345B-4A07-9AE3-D863A4256D9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DC0421E-345B-4A07-9AE3-D863A4256D9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DC0421E-345B-4A07-9AE3-D863A4256D9F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

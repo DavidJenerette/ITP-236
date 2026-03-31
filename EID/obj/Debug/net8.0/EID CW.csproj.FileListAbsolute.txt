@@ -1,0 +1,5 @@
+C:\Users\David\source\repos\ITP-236\EID\obj\Debug\net8.0\EID CW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\source\repos\ITP-236\EID\obj\Debug\net8.0\EID CW.AssemblyInfoInputs.cache
+C:\Users\David\source\repos\ITP-236\EID\obj\Debug\net8.0\EID CW.AssemblyInfo.cs
+C:\Users\David\source\repos\ITP-236\EID\obj\Debug\net8.0\EID CW.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\ITP-236\EID\obj\Debug\net8.0\EID CW.sourcelink.json

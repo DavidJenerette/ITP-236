@@ -3,12 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\David\\source\\repos\\ITP-236\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CD76DE16-CF7D-4CEE-A41D-756F8C901BEA}|Sports Model Assignment\\Sports Model Assignment.csproj|c:\\users\\david\\source\\repos\\itp-236\\sports model assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CD76DE16-CF7D-4CEE-A41D-756F8C901BEA}|Sports Model Assignment\\Sports Model Assignment.csproj|solutionrelative:sports model assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1DC0421E-345B-4A07-9AE3-D863A4256D9F}|EF Core 1\\EF Core 1.csproj|c:\\users\\david\\source\\repos\\itp-236\\ef core 1\\migrations\\20260331012830_updateseeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DC0421E-345B-4A07-9AE3-D863A4256D9F}|EF Core 1\\EF Core 1.csproj|solutionrelative:ef core 1\\migrations\\20260331012830_updateseeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CD76DE16-CF7D-4CEE-A41D-756F8C901BEA}|Sports Model Assignment\\Sports Model Assignment.csproj|c:\\users\\david\\source\\repos\\itp-236\\sports model assignment\\sportsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CD76DE16-CF7D-4CEE-A41D-756F8C901BEA}|Sports Model Assignment\\Sports Model Assignment.csproj|solutionrelative:sports model assignment\\sportsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1DC0421E-345B-4A07-9AE3-D863A4256D9F}|EF Core 1\\EF Core 1.csproj|c:\\users\\david\\source\\repos\\itp-236\\ef core 1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1DC0421E-345B-4A07-9AE3-D863A4256D9F}|EF Core 1\\EF Core 1.csproj|solutionrelative:ef core 1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DC0421E-345B-4A07-9AE3-D863A4256D9F}|EF Core 1\\EF Core 1.csproj|c:\\users\\david\\source\\repos\\itp-236\\ef core 1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DC0421E-345B-4A07-9AE3-D863A4256D9F}|EF Core 1\\EF Core 1.csproj|solutionrelative:ef core 1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DC0421E-345B-4A07-9AE3-D863A4256D9F}|EF Core 1\\EF Core 1.csproj|c:\\users\\david\\source\\repos\\itp-236\\ef core 1\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DC0421E-345B-4A07-9AE3-D863A4256D9F}|EF Core 1\\EF Core 1.csproj|solutionrelative:ef core 1\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DC0421E-345B-4A07-9AE3-D863A4256D9F}|EF Core 1\\EF Core 1.csproj|c:\\users\\david\\source\\repos\\itp-236\\ef core 1\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DC0421E-345B-4A07-9AE3-D863A4256D9F}|EF Core 1\\EF Core 1.csproj|solutionrelative:ef core 1\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DC0421E-345B-4A07-9AE3-D863A4256D9F}|EF Core 1\\EF Core 1.csproj|c:\\users\\david\\source\\repos\\itp-236\\ef core 1\\usercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DC0421E-345B-4A07-9AE3-D863A4256D9F}|EF Core 1\\EF Core 1.csproj|solutionrelative:ef core 1\\usercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DC0421E-345B-4A07-9AE3-D863A4256D9F}|EF Core 1\\EF Core 1.csproj|c:\\users\\david\\source\\repos\\itp-236\\ef core 1\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DC0421E-345B-4A07-9AE3-D863A4256D9F}|EF Core 1\\EF Core 1.csproj|solutionrelative:ef core 1\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,8 +38,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Users.cs",
+              "DocumentMoniker": "C:\\Users\\David\\source\\repos\\ITP-236\\EF Core 1\\Users.cs",
+              "RelativeDocumentMoniker": "EF Core 1\\Users.cs",
+              "ToolTip": "C:\\Users\\David\\source\\repos\\ITP-236\\EF Core 1\\Users.cs",
+              "RelativeToolTip": "EF Core 1\\Users.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T01:30:09.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Roles.cs",
+              "DocumentMoniker": "C:\\Users\\David\\source\\repos\\ITP-236\\EF Core 1\\Roles.cs",
+              "RelativeDocumentMoniker": "EF Core 1\\Roles.cs",
+              "ToolTip": "C:\\Users\\David\\source\\repos\\ITP-236\\EF Core 1\\Roles.cs",
+              "RelativeToolTip": "EF Core 1\\Roles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T01:29:38.23Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -31,27 +77,66 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\David\\source\\repos\\ITP-236\\Sports Model Assignment\\Program.cs",
-              "RelativeDocumentMoniker": "Sports Model Assignment\\Program.cs",
-              "ToolTip": "C:\\Users\\David\\source\\repos\\ITP-236\\Sports Model Assignment\\Program.cs",
-              "RelativeToolTip": "Sports Model Assignment\\Program.cs",
-              "ViewState": "AgIAAEkAAAAAAAAAAAAQwA8AAAAdAAAAAAAAAA==",
+              "Title": "20260331012830_UpdateSeedData.cs",
+              "DocumentMoniker": "C:\\Users\\David\\source\\repos\\ITP-236\\EF Core 1\\Migrations\\20260331012830_UpdateSeedData.cs",
+              "RelativeDocumentMoniker": "EF Core 1\\Migrations\\20260331012830_UpdateSeedData.cs",
+              "ToolTip": "C:\\Users\\David\\source\\repos\\ITP-236\\EF Core 1\\Migrations\\20260331012830_UpdateSeedData.cs",
+              "RelativeToolTip": "EF Core 1\\Migrations\\20260331012830_UpdateSeedData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-24T21:23:54.957Z",
+              "WhenOpened": "2026-03-31T01:28:30.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "C:\\Users\\David\\source\\repos\\ITP-236\\EF Core 1\\SeedData.cs",
+              "RelativeDocumentMoniker": "EF Core 1\\SeedData.cs",
+              "ToolTip": "C:\\Users\\David\\source\\repos\\ITP-236\\EF Core 1\\SeedData.cs",
+              "RelativeToolTip": "EF Core 1\\SeedData.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T01:21:21.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserContext.cs",
+              "DocumentMoniker": "C:\\Users\\David\\source\\repos\\ITP-236\\EF Core 1\\UserContext.cs",
+              "RelativeDocumentMoniker": "EF Core 1\\UserContext.cs",
+              "ToolTip": "C:\\Users\\David\\source\\repos\\ITP-236\\EF Core 1\\UserContext.cs",
+              "RelativeToolTip": "EF Core 1\\UserContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T01:21:19.824Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "SportsModel.cs",
-              "DocumentMoniker": "C:\\Users\\David\\source\\repos\\ITP-236\\Sports Model Assignment\\SportsModel.cs",
-              "RelativeDocumentMoniker": "Sports Model Assignment\\SportsModel.cs",
-              "ToolTip": "C:\\Users\\David\\source\\repos\\ITP-236\\Sports Model Assignment\\SportsModel.cs",
-              "RelativeToolTip": "Sports Model Assignment\\SportsModel.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAvAAAAAAAAAA==",
+              "Title": "AppSettings.json",
+              "DocumentMoniker": "C:\\Users\\David\\source\\repos\\ITP-236\\EF Core 1\\AppSettings.json",
+              "RelativeDocumentMoniker": "EF Core 1\\AppSettings.json",
+              "ToolTip": "C:\\Users\\David\\source\\repos\\ITP-236\\EF Core 1\\AppSettings.json",
+              "RelativeToolTip": "EF Core 1\\AppSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-31T01:02:12.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\David\\source\\repos\\ITP-236\\EF Core 1\\Program.cs",
+              "RelativeDocumentMoniker": "EF Core 1\\Program.cs",
+              "ToolTip": "C:\\Users\\David\\source\\repos\\ITP-236\\EF Core 1\\Program.cs",
+              "RelativeToolTip": "EF Core 1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-24T20:38:52.95Z",
+              "WhenOpened": "2026-03-30T22:03:41.7Z",
               "EditorCaption": ""
             }
           ]
