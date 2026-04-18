@@ -1691,6 +1691,23 @@
             "rid": "win"
           }
         }
+      },
+      "EF Core Model/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "8.0.0",
+          "Microsoft.EntityFrameworkCore.SqlServer": "8.0.0",
+          "Microsoft.Extensions.Configuration": "8.0.0",
+          "Microsoft.Extensions.Configuration.Json": "8.0.0",
+          "Microsoft.Extensions.Logging.Console": "8.0.0"
+        },
+        "compile": {
+          "bin/placeholder/EF Core Model.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/EF Core Model.dll": {}
+        }
       }
     }
   },
@@ -4530,10 +4547,16 @@
         "system.windows.extensions.nuspec",
         "useSharedDesignerContext.txt"
       ]
+    },
+    "EF Core Model/1.0.0": {
+      "type": "project",
+      "path": "../EF Core Model/EF Core Model.csproj",
+      "msbuildProject": "../EF Core Model/EF Core Model.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
+      "EF Core Model >= 1.0.0",
       "Microsoft.EntityFrameworkCore >= 8.0.0",
       "Microsoft.EntityFrameworkCore.Design >= 8.0.0",
       "Microsoft.EntityFrameworkCore.SqlServer >= 8.0.0",
@@ -4551,9 +4574,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\David\\source\\repos\\ITP-236\\EF Core 1\\EF Core 1.csproj",
-      "projectName": "EF Core 1",
-      "projectPath": "C:\\Users\\David\\source\\repos\\ITP-236\\EF Core 1\\EF Core 1.csproj",
+      "projectUniqueName": "C:\\Users\\David\\source\\repos\\ITP-236\\EF Core 1\\EF Core App.csproj",
+      "projectName": "EF Core App",
+      "projectPath": "C:\\Users\\David\\source\\repos\\ITP-236\\EF Core 1\\EF Core App.csproj",
       "packagesPath": "C:\\Users\\David\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\David\\source\\repos\\ITP-236\\EF Core 1\\obj\\",
       "projectStyle": "PackageReference",
@@ -4575,7 +4598,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\David\\source\\repos\\ITP-236\\EF Core Model\\EF Core Model.csproj": {
+              "projectPath": "C:\\Users\\David\\source\\repos\\ITP-236\\EF Core Model\\EF Core Model.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

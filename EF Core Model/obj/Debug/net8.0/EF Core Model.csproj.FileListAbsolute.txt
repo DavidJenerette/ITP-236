@@ -1,0 +1,15 @@
+C:\Users\David\source\repos\ITP-236\EF Core Model\bin\Debug\net8.0\EF Core Model.deps.json
+C:\Users\David\source\repos\ITP-236\EF Core Model\bin\Debug\net8.0\EF Core Model.runtimeconfig.json
+C:\Users\David\source\repos\ITP-236\EF Core Model\bin\Debug\net8.0\EF Core Model.dll
+C:\Users\David\source\repos\ITP-236\EF Core Model\bin\Debug\net8.0\EF Core Model.pdb
+C:\Users\David\source\repos\ITP-236\EF Core Model\obj\Debug\net8.0\EF Core Model.csproj.AssemblyReference.cache
+C:\Users\David\source\repos\ITP-236\EF Core Model\obj\Debug\net8.0\EF Core Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\source\repos\ITP-236\EF Core Model\obj\Debug\net8.0\EF Core Model.AssemblyInfoInputs.cache
+C:\Users\David\source\repos\ITP-236\EF Core Model\obj\Debug\net8.0\EF Core Model.AssemblyInfo.cs
+C:\Users\David\source\repos\ITP-236\EF Core Model\obj\Debug\net8.0\EF Core Model.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\ITP-236\EF Core Model\obj\Debug\net8.0\EF Core Model.sourcelink.json
+C:\Users\David\source\repos\ITP-236\EF Core Model\obj\Debug\net8.0\EF Core Model.dll
+C:\Users\David\source\repos\ITP-236\EF Core Model\obj\Debug\net8.0\refint\EF Core Model.dll
+C:\Users\David\source\repos\ITP-236\EF Core Model\obj\Debug\net8.0\EF Core Model.pdb
+C:\Users\David\source\repos\ITP-236\EF Core Model\obj\Debug\net8.0\EF Core Model.genruntimeconfig.cache
+C:\Users\David\source\repos\ITP-236\EF Core Model\obj\Debug\net8.0\ref\EF Core Model.dll
